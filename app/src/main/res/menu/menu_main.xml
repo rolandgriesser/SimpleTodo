@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:id="@+id/action_sort_by"
+        android:icon="@drawable/ic_sort_variant"
+        android:title="Sort by"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_show_completed"
+        android:title="Show completed to-dos"
+        android:checkable="true"
+        app:showAsAction="never"/>
+</menu>
