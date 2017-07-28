@@ -27,6 +27,8 @@ The following **additional** features are implemented:
 
 * [x] Sort items by name, date or priority, using a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment)
 * [x] Filter done items
+* [x] Added validation of name and due date
+
 
 ## Video Walkthrough 
 
